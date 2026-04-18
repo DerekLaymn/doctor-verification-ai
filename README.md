@@ -1,3 +1,6 @@
+For through understanding please see the IIT_Guwahati.pdf it describes the project in detail 
+
+
 # Doctor Verification Agentic AI
 "AI-powered pipeline to scrape, validate, and enrich doctor profiles using Multi-Agent workflow."
 
