@@ -18,3 +18,6 @@ Export the final verified JSON.
 This project uses an SQLite database (workflow.db) which is auto-generated.
 
 Ensure you have the necessary API keys for the LLM strategy used in scraping.
+
+
+The web Integration  did not worked (-___-).
